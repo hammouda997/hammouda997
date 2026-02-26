@@ -7,13 +7,13 @@
 <br/>
 <div align="center">
   <h3>💻 Web Engineer & Full Stack Developer from Tunisia</h3>
-  <p>Building high-performance applications with modern tech stacks.</p>
+  <p>Architecting scalable solutions with modern full-stack technologies.</p>
 </div>
 ---
-### 🚀 Key Expertise:
-- 🏗️ Full-stack architecture with **Vue 3, Nuxt, and NestJS**.
-- ☁️ Cloud infrastructure and automation with **AWS & Docker**.
-- 📱 Cross-platform mobile development with **Flutter**.
+### 🚀 Performance & Achievements:
+- 🏗️ **Full-Stack Architecture**: Expert in **Vue 3, Nuxt, and NestJS** ecosystems.
+- ☁️ **Cloud & DevOps**: Extensive experience with **AWS, Docker, Jenkins**, and **CI/CD** automation.
+- 📱 **Mobile & Desktop**: Building cross-platform experiences with **Flutter** and **React Native**.
 ---
 ### 🤝 Connect with me:
 <p align="left">
@@ -31,22 +31,21 @@
 </p>
 ---
 ### 🛠️ Professional Toolbox:
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,angular,ts,tailwind,bootstrap&theme=dark" height="40" />
-**Backend & Cloud**  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,laravel,spring,dotnet,aws,docker,linux&theme=dark" height="40" />
-**Tools & Mobile**  
-<img src="https://skillicons.dev/icons?i=flutter,dart,mongodb,graphql,git,jenkins,figma,postman&theme=dark" height="40" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,js,ts,html,css,sass,tailwind,bootstrap,nextjs,nodejs,express,nestjs,laravel,spring,dotnet,aws,firebase,docker,linux,git,graphql,mongodb,ps,figma,postman,jenkins,grafana,c,java,dart,flutter,redux,webpack,babel,vagrant&perline=13&theme=dark" />
+  </a>
+</p>
 ---
 ### 📊 Engineering Stats:
 <div align="center">
   <table align="center">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="hammouda997 langs" width="350px" />
+        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="hammouda997 langs" width="380px" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-one.vercel.app/api?username=hammouda997&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="hammouda997 stats" width="350px" />
+        <img src="https://github-readme-stats-one.vercel.app/api?username=hammouda997&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="hammouda997 stats" width="380px" />
       </td>
     </tr>
   </table>
