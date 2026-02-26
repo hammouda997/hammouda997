@@ -7,13 +7,13 @@
 <br/>
 <div align="center">
   <h3>💻 Web Engineer & Full Stack Developer from Tunisia</h3>
-  <p>Architecting scalable solutions with modern full-stack technologies.</p>
+  <p>Designing and building high-performance, scalable web applications.</p>
 </div>
 ---
 ### 🚀 Performance & Achievements:
-- 🏗️ **Full-Stack Architecture**: Expert in **Vue 3, Nuxt, and NestJS** ecosystems.
-- ☁️ **Cloud & DevOps**: Extensive experience with **AWS, Docker, Jenkins**, and **CI/CD** automation.
-- 📱 **Mobile & Desktop**: Building cross-platform experiences with **Flutter** and **React Native**.
+- 🏗️ **Architecting** complex full-stack ecosystems with **Vue 3, Nuxt, and NestJS**.
+- ☁️ **Orchestrating** cloud-native deployments with **AWS, Docker, and Jenkins**.
+- 📱 **Developing** high-performance cross-platform apps with **Flutter & React Native**.
 ---
 ### 🤝 Connect with me:
 <p align="left">
@@ -31,10 +31,17 @@
 </p>
 ---
 ### 🛠️ Professional Toolbox:
+#### 🖥️ Frontend Frameworks & UI
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,js,ts,html,css,sass,tailwind,bootstrap,nextjs,nodejs,express,nestjs,laravel,spring,dotnet,aws,firebase,docker,linux,git,graphql,mongodb,ps,figma,postman,jenkins,grafana,c,java,dart,flutter,redux,webpack,babel,vagrant&perline=13&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,angular,ts,js,html,css,sass,tailwind,bootstrap&theme=dark" />
+</p>
+#### ⚙️ Backend & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,dotnet,aws,firebase,docker,linux,jenkins,git&theme=dark" />
+</p>
+#### 📱 Mobile, Storage & Engineering Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,redux,mongodb,graphql,postman,webpack,babel,ps,figma,grafana,c,java,vagrant&theme=dark" />
 </p>
 ---
 ### 📊 Engineering Stats:
