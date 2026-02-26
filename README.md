@@ -32,35 +32,34 @@
 </p>
 ---
 ### 🛠️ Professional Toolbox:
+#### 💻 Frontend & UI Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,nextjs,nodejs,express,nestjs,laravel,spring,dotnet&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=aws,firebase,docker,linux,git,ts,js,html,css,sass,tailwind,bootstrap&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=graphql,mongodb,ps,figma,postman,jenkins,grafana,c,java,dart,flutter,redux,webpack,babel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vue,nuxt,react,nextjs,angular,html,css,sass,tailwind,bootstrap,js,ts&theme=dark" />
 </p>
----
-### 📊 Engineering Stats & Activity:
+#### ⚙️ Backend & Cloud Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,spring,dotnet,aws,firebase,docker,linux,jenkins,git&theme=dark" />
+</p>
+#### 📱 Mobile, Storage & Engineering Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,redux,mongodb,graphql,postman,webpack,babel,ps,figma,grafana,c,java,vagrant&theme=dark" />
+</p>
+### 📊 Engineering Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammouda997&theme=radical&hide_border=true" alt="hammouda997 streak" width="100%" />
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hammouda997 langs" width="400px" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-one.vercel.app/api?username=hammouda997&show_icons=true&locale=en&theme=radical&hide_border=true" alt="hammouda997 stats" width="400px" />
+      </td>
+    </tr>
+  </table>
 </div>
 <br/>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hammouda997 langs" width="400px" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=hammouda997&show_icons=true&locale=en&theme=radical&hide_border=true" alt="hammouda997 stats" width="400px" />
-    </td>
-  </tr>
-</table>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammouda997&theme=radical&bg_color=1a1b27&hide_border=true" width="100%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammouda997&theme=radical&no-frame=true&margin-w=15" alt="hammouda997 trophies" />
+  <img src="https://github-profile-trophy-one.vercel.app/?username=hammouda997&theme=radical&no-frame=true&margin-w=15" alt="hammouda997 trophies" />
 </div>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&theme=radical" />
