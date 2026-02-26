@@ -4,12 +4,10 @@
 <h1 align="center">Hi 👋, I'm Hammouda Msaad</h1>
 <h3 align="center">A passionate web engineer & full stack developer from Tunisia</h3>
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hammouda997&theme=radical" alt="hammouda997" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=hammouda997&theme=radical&no-frame=true&margin-w=15" alt="hammouda997 trophies" />
 </div>
 <br/>
-- 📫 How to reach me: **hammouda.msaa@esprit.tn** / **msaadhammouda@ymail.com** / **hammoudamsaad@gmail.com**
+- 📫 How to reach me: **msaadhammouda@ymail.com** / **hammoudamsaad@gmail.com**
 ### 🤝 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/hammouda-msaad" target="blank">
@@ -19,12 +17,20 @@
 ### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,bootstrap,c,css,dart,docker,dotnet,express,figma,firebase,flutter,git,grafana,graphql,heroku,html,java,js,jenkins,laravel,linux,mongodb,nestjs,nextjs,nodejs,ps,postman,react,redux,sass,spring,tailwind,ts,vagrant,webpack" />
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,nextjs,nodejs,express,nestjs,laravel,spring,dotnet,aws,firebase,docker,linux,git,ts,js,html,css,sass,tailwind,bootstrap,graphql,mongodb,ps,figma,postman,jenkins,grafana,c,java,dart,flutter,redux,webpack,babel,vagrant" />
   </a>
 </p>
+### 🏆 Achievements:
+- 🚀 Built and deployed multiple full-stack applications using Vue, Angular, and NestJS.
+- ☁️ Experienced in cloud infrastructure and CI/CD automation with AWS and Jenkins.
+- 📱 Developed cross-platform mobile apps with Flutter and React Native.
+- 💡 Passionate about clean code and modern web architectures.
 <br/>
 ### 📊 Github Stats
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=radical" alt="hammouda997" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hammouda997&show_icons=true&locale=en&theme=radical" alt="hammouda997" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" alt="hammouda997 langs" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hammouda997&show_icons=true&locale=en&theme=radical&hide_border=true" alt="hammouda997 stats" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammouda997&theme=radical&hide_border=true" alt="hammouda997 streak" />
 </div>
