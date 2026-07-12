@@ -24,7 +24,7 @@
   <h3>Full-Stack Web Engineer from Tunisia</h3>
   <p>
     Building high-performance, scalable web apps with <strong>NestJS</strong>, <strong>Next.js</strong>, and <strong>Vue / Nuxt</strong>.<br/>
-    Open to remote · English &amp; French
+    Open to remote | English &amp; French
   </p>
 </div>
 
