@@ -10,7 +10,7 @@
 
 <div align="center">
   <h3>Full-Stack Web Engineer | NestJS / Next.js</h3>
-  <p>I build scalable web apps end-to-end - from API design to UI, Docker, and shipping to production.</p>
+  <p>Engineer focused on scalable systems, performance, and production delivery - not just features.</p>
   <p>Tunisia | Open to remote | English &amp; French</p>
 </div>
 
@@ -27,18 +27,18 @@
 
 ---
 
-### Performance &amp; Achievements
+### Impact
 
-- Architecting full-stack products with **Vue 3 / Nuxt**, **React / Next.js**, and **NestJS**
-- Shipping real platforms: donations (RightGive), payroll (EasyPaie), e-commerce (Al Farida)
-- Cut page load by **~25%** migrating CRA to Next.js + React Query (Hero Labs)
-- Code reviews, mentoring juniors, and keeping frontend standards consistent across the team
-- Cloud &amp; containers with **AWS, Docker**, and CI pipelines
+- **RightGive (Islam Channel)** - engineered a donation PWA (Nuxt 3) with SEO and real-time donor flows; proved performance and UX under production traffic
+- **Hero Labs** - cut page load by **~25%** by migrating CRA to Next.js + React Query and improving frontend architecture
+- **[mypay.tn](https://mypay.tn)** - engineered payroll SaaS (CNSS / CSS / IRPP), secure auth, dashboards, Dockerized API
+- Led code reviews, mentored engineers, and enforced architecture standards across teams
+- Designed and operated delivery with **AWS, Docker**, and CI pipelines
 
 <details>
 <summary>Also worked with</summary>
 
-Flutter &amp; React Native (secondary) | Jenkins | MongoDB | Express
+Vue 3 / Nuxt | Flutter &amp; React Native (secondary) | Jenkins | MongoDB | Express
 
 </details>
 
