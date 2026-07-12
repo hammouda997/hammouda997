@@ -43,7 +43,10 @@
 
 ### Open source
 
-Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** - multi-tenant SaaS reference (NestJS, Next.js, Prisma, Stripe, RBAC, audit, CI).
+| Flagship | Focus |
+|----------|-------|
+| **[CiteForge](https://github.com/hammouda997/citeforge)** | Production RAG — pgvector, streaming answers, citations, token metering |
+| **[TenantForge](https://github.com/hammouda997/TenantForge)** | Multi-tenant SaaS — NestJS, Next.js, Prisma, Stripe, RBAC, audit, CI |
 
 | Library / kit | Purpose |
 |---------------|---------|
