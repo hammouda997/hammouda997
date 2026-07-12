@@ -94,11 +94,6 @@ Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — mult
   <img src="./assets/focus.svg" alt="Focus areas" width="840" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammouda997&theme=tokyo&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph" width="840" />
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=20&section=footer&theme=dark" />
