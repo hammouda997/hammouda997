@@ -9,42 +9,42 @@
 <br/>
 
 <div align="center">
-  <h3>💻 Full-Stack Web Engineer · NestJS / Next.js</h3>
-  <p>I build scalable web apps end-to-end — from API design to UI, Docker, and shipping to production.</p>
-  <p>Tunisia · Open to remote · English & French</p>
+  <h3>Full-Stack Web Engineer | NestJS / Next.js</h3>
+  <p>I build scalable web apps end-to-end - from API design to UI, Docker, and shipping to production.</p>
+  <p>Tunisia | Open to remote | English &amp; French</p>
 </div>
 
 ---
 
-### 🚀 What I’m building
+### What I am building
 
 | Project | Stack | Focus |
 |---------|-------|-------|
-| **[TenantForge](https://github.com/hammouda997/TenantForge)** | NestJS · Next.js · Prisma · Stripe | Multi-tenant SaaS, RBAC, billing, audit |
-| [nestjs-tenant-guard](https://github.com/hammouda997/nestjs-tenant-guard) | NestJS | Tenant isolation guards & decorators |
+| **[TenantForge](https://github.com/hammouda997/TenantForge)** | NestJS, Next.js, Prisma, Stripe | Multi-tenant SaaS, RBAC, billing, audit |
+| [nestjs-tenant-guard](https://github.com/hammouda997/nestjs-tenant-guard) | NestJS | Tenant isolation guards &amp; decorators |
 | [next-saas-starter-ui](https://github.com/hammouda997/next-saas-starter-ui) | Next.js | SaaS UI starter |
-| [saas-docker-ci-kit](https://github.com/hammouda997/saas-docker-ci-kit) | Docker · GHA | CI/CD for SaaS monorepos |
+| [saas-docker-ci-kit](https://github.com/hammouda997/saas-docker-ci-kit) | Docker, GHA | CI/CD for SaaS monorepos |
 
 ---
 
-### 🧩 Performance & Achievements
+### Performance &amp; Achievements
 
 - Architecting full-stack products with **Vue 3 / Nuxt**, **React / Next.js**, and **NestJS**
 - Shipping real platforms: donations (RightGive), payroll (EasyPaie), e-commerce (Al Farida)
-- Cut page load by **~25%** migrating CRA → Next.js + React Query (Hero Labs)
+- Cut page load by **~25%** migrating CRA to Next.js + React Query (Hero Labs)
 - Code reviews, mentoring juniors, and keeping frontend standards consistent across the team
-- Cloud & containers with **AWS, Docker**, and CI pipelines
+- Cloud &amp; containers with **AWS, Docker**, and CI pipelines
 
 <details>
 <summary>Also worked with</summary>
 
-Flutter & React Native (secondary) · Jenkins · MongoDB · Express
+Flutter &amp; React Native (secondary) | Jenkins | MongoDB | Express
 
 </details>
 
 ---
 
-### 🤝 Connect with me
+### Connect with me
 
 <p align="left">
   <a href="https://linkedin.com/in/hammouda-msaad" target="blank">
@@ -62,7 +62,7 @@ Flutter & React Native (secondary) · Jenkins · MongoDB · Express
 
 ---
 
-### 🛠️ Stack
+### Stack
 
 #### Core
 
@@ -78,7 +78,7 @@ Flutter & React Native (secondary) · Jenkins · MongoDB · Express
 
 ---
 
-### 📊 Stats
+### Stats
 
 <div align="center">
   <table align="center">
