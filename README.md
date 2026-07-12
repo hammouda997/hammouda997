@@ -12,7 +12,7 @@
   <h3>Software Engineer | Full-Stack Platforms (NestJS / Next.js)</h3>
   <p>
     I design and ship production systems: multi-tenant SaaS, payments, and high-traffic web products.<br/>
-    Ownership from architecture to delivery. Tunisia · Remote-ready (CET) · English / French
+    Ownership from architecture to delivery. Tunisia | Remote-ready (CET) | English / French
   </p>
 </div>
 
