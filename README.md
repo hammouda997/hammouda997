@@ -21,10 +21,10 @@
 <br/>
 
 <div align="center">
-  <h3>Software Engineer | Full-Stack Platforms (NestJS / Next.js)</h3>
+  <h3>Full-Stack Web Engineer from Tunisia</h3>
   <p>
-    I design and ship production systems: multi-tenant SaaS, payments, and high-traffic web products.<br/>
-    Ownership from architecture to delivery. Tunisia | Remote-ready (CET) | English / French
+    Building high-performance, scalable web apps with <strong>NestJS</strong>, <strong>Next.js</strong>, and <strong>Vue / Nuxt</strong>.<br/>
+    Open to remote · English &amp; French
   </p>
 </div>
 
