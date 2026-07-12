@@ -91,7 +91,7 @@ Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — mult
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hammouda997&theme=tokyonight&hide_border=true" alt="hammouda997 streak" />
+  <img src="https://streak-stats.demolab.com?user=hammouda997&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="hammouda997 streak" />
 </div>
 
 <br/>
