@@ -4,6 +4,18 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hammouda997&label=PROFILE%20VIEWS&color=00d2ff&style=flat-square" alt="hammouda997" />
+  &nbsp;
+  <a href="https://linkedin.com/in/hammouda-msaad" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:msaadhammouda@ymail.com">
+    <img src="https://img.shields.io/badge/Email-YMail-6001d2?style=flat-square&logo=yahoo&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:hammoudamsaad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -22,8 +34,8 @@
 
 | Role / product | Outcome |
 |----------------|---------|
-| **RightGive** · Islam Channel | Owned the donation platform (Nuxt 3 PWA). Production traffic validated performance, SEO, and real-time donor UX. |
-| **Hero Labs** | Led CRA → Next.js + React Query migration. **~25% faster** page loads; raised frontend architecture bar for the team. |
+| **RightGive** / Islam Channel | Owned the donation platform (Nuxt 3 PWA). Production traffic validated performance, SEO, and real-time donor UX. |
+| **Hero Labs** | Led CRA to Next.js + React Query migration. **~25% faster** page loads; raised frontend architecture bar for the team. |
 | **[mypay.tn](https://mypay.tn)** | Built payroll SaaS end-to-end (tax engines CNSS/CSS/IRPP, auth, analytics, Dockerized API). |
 | **Engineering practice** | Code review ownership, mentoring, and standards that keep teams shipping safely. |
 
@@ -31,7 +43,7 @@
 
 ### Open source
 
-Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — multi-tenant SaaS reference (NestJS, Next.js, Prisma, Stripe, RBAC, audit, CI).
+Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** - multi-tenant SaaS reference (NestJS, Next.js, Prisma, Stripe, RBAC, audit, CI).
 
 | Library / kit | Purpose |
 |---------------|---------|
@@ -55,24 +67,6 @@ Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — mult
 
 ---
 
-### Connect
-
-<p align="left">
-  <a href="https://linkedin.com/in/hammouda-msaad" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:msaadhammouda@ymail.com">
-    <img src="https://img.shields.io/badge/Email-msaadhammouda%40ymail.com-6001d2?style=flat-square&logo=yahoo&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:hammoudamsaad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 ### GitHub
 
 <div align="center">
@@ -93,7 +87,6 @@ Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — mult
 <div align="center">
   <img src="./assets/focus.svg" alt="Focus areas" width="840" />
 </div>
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=00d2ff&height=20&section=footer&theme=dark" />
