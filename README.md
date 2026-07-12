@@ -79,10 +79,10 @@ Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — mult
   <table align="center">
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="hammouda997 langs" width="380px" />
+        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=hammouda997&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=4&hide=html,shell,kotlin" alt="Top languages" height="200" />
       </td>
       <td align="center" valign="top">
-        <img src="./assets/github-stats.svg" alt="hammouda997 stats" width="380px" />
+        <img src="./assets/github-stats.svg" alt="Engineering activity" height="200" />
       </td>
     </tr>
   </table>
@@ -91,13 +91,13 @@ Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — mult
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hammouda997&theme=tokyonight&hide_border=true&hide_longest_streak=true" alt="hammouda997 streak" />
+  <img src="./assets/focus.svg" alt="Focus areas" width="840" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-one.vercel.app/?username=hammouda997&theme=tokyonight&no-frame=true&margin-w=15" alt="hammouda997 trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hammouda997&theme=tokyo&hide_border=true&area=true&custom_title=Contribution%20graph" alt="Contribution graph" width="840" />
 </div>
 
 <p align="center">

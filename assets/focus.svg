@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="110" viewBox="0 0 840 110" fill="none" role="img">
+  <title>Focus areas</title>
+  <rect x="0.5" y="0.5" width="839" height="109" rx="6" fill="#1a1b27" stroke="#303645"/>
+  <text x="28" y="32" fill="#70a5fd" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="14" font-weight="600">Where I create leverage</text>
+  <g font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="12">
+    <rect x="28" y="48" width="250" height="40" rx="6" fill="#24283b"/>
+    <text x="44" y="73" fill="#c0caf5">Multi-tenant SaaS platforms</text>
+    <rect x="294" y="48" width="250" height="40" rx="6" fill="#24283b"/>
+    <text x="310" y="73" fill="#c0caf5">Performance &amp; frontend architecture</text>
+    <rect x="560" y="48" width="252" height="40" rx="6" fill="#24283b"/>
+    <text x="576" y="73" fill="#c0caf5">NestJS / Next.js production systems</text>
+  </g>
+</svg>

@@ -10,44 +10,57 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Build accurate stats SVG
+      - name: Build activity SVG
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
             const login = 'hammouda997';
             let total = 0;
-            let prs = 0;
             const years = [2020,2021,2022,2023,2024,2025,2026];
             for (const year of years) {
               const from = year === 2020 ? '2020-10-25T00:00:00Z' : `${year}-01-01T00:00:00Z`;
               const to = year === 2026 ? new Date().toISOString() : `${year}-12-31T23:59:59Z`;
-              const q = `query { user(login:"${login}") { pullRequests { totalCount } contributionsCollection(from:"${from}", to:"${to}") { contributionCalendar { totalContributions } } } }`;
+              const q = `
+                query {
+                  user(login:"${login}") {
+                    createdAt
+                    publicRepositories: repositories(privacy: PUBLIC) { totalCount }
+                    privateRepositories: repositories(privacy: PRIVATE) { totalCount }
+                    pullRequests { totalCount }
+                    contributionsCollection(from:"${from}", to:"${to}") {
+                      contributionCalendar { totalContributions }
+                    }
+                  }
+                }`;
               const res = await github.graphql(q);
               total += res.user.contributionsCollection.contributionCalendar.totalContributions;
-              prs = res.user.pullRequests.totalCount;
+              globalThis.__meta = res.user;
             }
-            const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img">
-  <title>Hammouda Msaad GitHub Stats</title>
-  <style>
-    .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
-    .label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
-    .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
-    .sub { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
-  </style>
-  <rect width="420" height="195" rx="6" fill="#1a1b27"/>
-  <text x="25" y="35" class="title">Hammouda Msaad's GitHub Stats</text>
-  <g transform="translate(25, 58)">
-    <text class="label" x="0" y="0">Total Contributions</text>
-    <text class="value" x="290" y="0" text-anchor="end">${total.toLocaleString('en-US')}</text>
-    <text class="label" x="0" y="32">Private + Public (lifetime)</text>
-    <text class="value" x="290" y="32" text-anchor="end">incl. private</text>
-    <text class="label" x="0" y="64">Pull Requests</text>
-    <text class="value" x="290" y="64" text-anchor="end">${prs}</text>
-    <text class="label" x="0" y="96">Joined GitHub</text>
-    <text class="value" x="290" y="96" text-anchor="end">Oct 2020</text>
+            const u = globalThis.__meta;
+            const repos = u.publicRepositories.totalCount + u.privateRepositories.totalCount;
+            const prs = u.pullRequests.totalCount;
+            const yearsShipping = Math.max(1, new Date().getFullYear() - 2020);
+            const contrib = total.toLocaleString('en-US');
+            const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="420" height="200" viewBox="0 0 420 200" fill="none" role="img">
+  <title>Hammouda Msaad — Engineering activity</title>
+  <rect x="0.5" y="0.5" width="419" height="199" rx="6" fill="#1a1b27" stroke="#303645"/>
+  <text x="24" y="36" fill="#70a5fd" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="16" font-weight="600">Engineering Activity</text>
+  <text x="24" y="54" fill="#565f89" font-family="Segoe UI, Ubuntu, Sans-Serif" font-size="11">Private + public · Oct 2020 – present</text>
+  <g font-family="Segoe UI, Ubuntu, Sans-Serif">
+    <rect x="24" y="72" width="178" height="48" rx="6" fill="#24283b"/>
+    <text x="38" y="92" fill="#565f89" font-size="11">Contributions</text>
+    <text x="38" y="112" fill="#7fd962" font-size="18" font-weight="700">${contrib}</text>
+    <rect x="218" y="72" width="178" height="48" rx="6" fill="#24283b"/>
+    <text x="232" y="92" fill="#565f89" font-size="11">Years shipping</text>
+    <text x="232" y="112" fill="#70a5fd" font-size="18" font-weight="700">${yearsShipping}+</text>
+    <rect x="24" y="132" width="178" height="48" rx="6" fill="#24283b"/>
+    <text x="38" y="152" fill="#565f89" font-size="11">Repositories owned</text>
+    <text x="38" y="172" fill="#38bdae" font-size="18" font-weight="700">${repos}</text>
+    <rect x="218" y="132" width="178" height="48" rx="6" fill="#24283b"/>
+    <text x="232" y="152" fill="#565f89" font-size="11">Pull requests</text>
+    <text x="232" y="172" fill="#f39c12" font-size="18" font-weight="700">${prs}</text>
   </g>
-  <text x="25" y="180" class="sub">Source: GitHub GraphQL · includes private contributions</text>
 </svg>`;
             fs.mkdirSync('assets', { recursive: true });
             fs.writeFileSync('assets/github-stats.svg', svg);
@@ -56,5 +69,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/github-stats.svg
-          git diff --staged --quiet || git commit -m "chore: refresh accurate GitHub stats"
+          git diff --staged --quiet || git commit -m "chore: refresh engineering activity stats"
           git push
