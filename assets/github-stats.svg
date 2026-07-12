@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="195" viewBox="0 0 420 195" role="img">
+  <title>Hammouda Msaad GitHub Stats</title>
+  <style>
+    .title { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #70a5fd; }
+    .label { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .value { font: 600 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae; }
+    .sub { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #a9b1d6; }
+  </style>
+  <rect width="420" height="195" rx="6" fill="#1a1b27"/>
+  <text x="25" y="35" class="title">Hammouda Msaad's GitHub Stats</text>
+  <g transform="translate(25, 58)">
+    <text class="label" x="0" y="0">Total Contributions</text>
+    <text class="value" x="290" y="0" text-anchor="end">2464</text>
+    <text class="label" x="0" y="32">Private + Public (lifetime)</text>
+    <text class="value" x="290" y="32" text-anchor="end">incl. private</text>
+    <text class="label" x="0" y="64">Pull Requests</text>
+    <text class="value" x="290" y="64" text-anchor="end">16</text>
+    <text class="label" x="0" y="96">Joined GitHub</text>
+    <text class="value" x="290" y="96" text-anchor="end">Oct 2020</text>
+  </g>
+  <text x="25" y="180" class="sub">Source: GitHub GraphQL · includes private contributions</text>
+</svg>

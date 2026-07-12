@@ -76,7 +76,16 @@ Flagship: **[TenantForge](https://github.com/hammouda997/TenantForge)** — mult
 ### GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="hammouda997 langs" width="380px" />
+  <table align="center">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats-one.vercel.app/api/top-langs?username=hammouda997&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="hammouda997 langs" width="380px" />
+      </td>
+      <td align="center" valign="top">
+        <img src="./assets/github-stats.svg" alt="hammouda997 stats" width="380px" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
